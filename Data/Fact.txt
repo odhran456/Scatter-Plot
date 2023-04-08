@@ -1,4 +1,4 @@
-Opportunity_Fact = 
+Fact = 
 DATATABLE(
     "Dim1_Key", INTEGER,
     "Dim2_Key", INTEGER,
