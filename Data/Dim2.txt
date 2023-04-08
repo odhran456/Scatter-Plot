@@ -1,0 +1,15 @@
+Dim2 = 
+DATATABLE(
+    "ID", INTEGER,
+    "Colour", STRING,
+    "Grouping", INTEGER,
+    {
+        {1, "Red", 4},
+        {2, "Orange", 3},
+        {3, "Yellow", 2},
+        {4, "Green", 3},
+        {5, "Blue", 4},
+        {6, "Indigo", 1},
+        {7, "Violet", 4}
+    }
+)

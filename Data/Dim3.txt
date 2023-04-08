@@ -1,0 +1,16 @@
+Dim3 = 
+DATATABLE(
+    "ID", STRING,
+    "Parent", STRING,
+    "Child", STRING,
+    "Letter", STRING,
+    {
+        {1, "Parent_1", "Child_1", "A"},
+        {2, "Parent_1", "Child_2", "B"},
+        {3, "Parent_2", "Child_3", "C"},
+        {4, "Parent_2", "Child_4", "D"},
+        {5, "Parent_3", "Child_5", "E"},
+        {6, "Parent_3", "Child_6", "F"},
+        {7, "Parent_4", "Child_7", "G"}
+    }
+)
