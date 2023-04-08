@@ -1,6 +1,6 @@
 Dim3 = 
 DATATABLE(
-    "ID", STRING,
+    "ID", INTEGER,
     "Parent", STRING,
     "Child", STRING,
     "Letter", STRING,
